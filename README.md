@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielOtsugua&theme=white&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielOtsugua.vercel.app/api/top-langs/?username=GabrielOtsugua&show_icons=true&theme=white&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GabrielOtsugua&show_icons=true&theme=white&layout=compact" />
  </div>
  
  &nbsp;
