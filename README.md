@@ -5,7 +5,9 @@
 <p align="center">Sou um desenvolvedor com foco em Front-End. <br><br> Ênfase em experiências de usuário e designs de alta qualidade. Formado em Web Full-Stack na Kenzie Academy Brasil. Tenho experiência profissional como desenvolvedor júnior.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" style="margin-bottom:50px" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielOtsugua&theme=white&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielOtsugua&theme=white&mode=weekly" />
+ <br/>
+ <br/>
  <br/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GabrielOtsugua&show_icons=true&theme=white&layout=compact" />
  </div>
