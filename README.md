@@ -40,6 +40,8 @@
 <a href="https://www.linkedin.com/in/gabriel-augusto-5aab41236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+
 <!--
 **GabrielOtsugua/GabrielOtsugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
