@@ -1,3 +1,4 @@
+<img src="https://github.com/GabrielOtsugua/GabrielOtsugua/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" />
 
 👋 Olá, sou o Gabriel.
 &nbsp;&nbsp;&nbsp;
