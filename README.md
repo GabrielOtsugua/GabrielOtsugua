@@ -39,7 +39,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
 <!--
 **GabrielOtsugua/GabrielOtsugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
